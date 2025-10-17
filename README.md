@@ -1,5 +1,5 @@
 Isaac Martinez Sanchez
-17/10/2025
-IES Institut Mollerussa
+17 d'octubre 2025
+Ins Mollerussa
 
 Fin de la documentación

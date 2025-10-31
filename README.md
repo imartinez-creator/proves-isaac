@@ -1,5 +1,3 @@
-# Documentacion
+# My GitHub Project
 
-> Isaac Martinez Sanchez
-> 17 d'octubre 2025
-> Ins Mollerussa 
+This is my GitHub project. I published it directly from Visual Studio Code
